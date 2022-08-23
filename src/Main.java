@@ -25,6 +25,19 @@ public class Main {
         var weightDifference = boxer2 - boxer1;
         System.out.println("Общий вес боксеров" + weightOfAllBoxers);
         System.out.println("Разница в весе боксеров" + weightDifference);
+        double difference = boxer2 % boxer1;
+        System.out.println(difference);
+        var openingHours = 640;
+        var watch = 8;
+        var employees = 640 / 8;
+        System.out.println("Всего работников в компании" + openingHours / watch);
+        employees = employees + 94;
+
+
+
+
+
+
 
 
 
