@@ -32,6 +32,12 @@ public class Main {
         var employees = 640 / 8;
         System.out.println("Всего работников в компании" + openingHours / watch);
         employees = employees + 94;
+        System.out.println(employees);
+        employees = employees * watch;
+        System.out.println("Если в компании работает 174 человека, то поделено часов между сотрудниками может быть -" +
+                employees * watch);
+
+
 
 
 

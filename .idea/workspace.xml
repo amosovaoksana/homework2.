@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dadb2775-7d92-4a8d-85ec-91f64126f105" name="Changes" comment="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2">
+    <list default="true" id="dadb2775-7d92-4a8d-85ec-91f64126f105" name="Changes" comment="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -58,7 +58,8 @@
       <updated>1661191161863</updated>
       <workItem from="1661191163260" duration="3665000" />
       <workItem from="1661268871222" duration="10098000" />
-      <workItem from="1661280347254" duration="2161000" />
+      <workItem from="1661280347254" duration="2884000" />
+      <workItem from="1661356076732" duration="1059000" />
     </task>
     <task id="LOCAL-00001" summary="коммит 1">
       <created>1661194721542</created>
@@ -88,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661279038184</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3">
+      <created>1661283250853</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661283250853</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +118,7 @@
     <MESSAGE value="коммит 1&#10;коммит 2" />
     <MESSAGE value="коммит 1&#10;коммит 2&#10;поправка 1" />
     <MESSAGE value="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2" />
+    <MESSAGE value="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3" />
   </component>
 </project>
