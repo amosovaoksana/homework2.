@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dadb2775-7d92-4a8d-85ec-91f64126f105" name="Changes" comment="" />
+    <list default="true" id="dadb2775-7d92-4a8d-85ec-91f64126f105" name="Changes" comment="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3&#10;Завершенное задание №2 Амосова Оксана" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DioEapg626JzduYSxn1kRC3OUa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,13 +24,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="home work 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +53,93 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661191161863</updated>
+      <workItem from="1661191163260" duration="3665000" />
+      <workItem from="1661268871222" duration="10098000" />
+      <workItem from="1661280347254" duration="2884000" />
+      <workItem from="1661356076732" duration="2134000" />
     </task>
+    <task id="LOCAL-00001" summary="коммит 1">
+      <created>1661194721542</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661194721542</updated>
+    </task>
+    <task id="LOCAL-00002" summary="коммит 1&#10;коммит 2">
+      <created>1661270693151</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661270693151</updated>
+    </task>
+    <task id="LOCAL-00003" summary="коммит 1&#10;коммит 2&#10;поправка 1">
+      <created>1661271605400</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661271605401</updated>
+    </task>
+    <task id="LOCAL-00004" summary="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2">
+      <created>1661279038184</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661279038184</updated>
+    </task>
+    <task id="LOCAL-00005" summary="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3">
+      <created>1661283250853</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661283250853</updated>
+    </task>
+    <task id="LOCAL-00006" summary="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3&#10;Завершенное задание №2">
+      <created>1661357395813</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661357395813</updated>
+    </task>
+    <task id="LOCAL-00007" summary="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3&#10;Завершенное задание №2">
+      <created>1661357519618</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661357519618</updated>
+    </task>
+    <task id="LOCAL-00008" summary="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3&#10;Завершенное задание №2 Амосова Оксана">
+      <created>1661357601913</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661357601913</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="коммит 1" />
+    <MESSAGE value="коммит 1&#10;коммит 2" />
+    <MESSAGE value="коммит 1&#10;коммит 2&#10;поправка 1" />
+    <MESSAGE value="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2" />
+    <MESSAGE value="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3" />
+    <MESSAGE value="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3&#10;Завершенное задание №2" />
+    <MESSAGE value="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3&#10;Завершенное задание №2 Амосова Оксана" />
+    <MESSAGE value="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3&#10;поправка 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3&#10;поправка 4" />
   </component>
 </project>
