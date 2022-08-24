@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dadb2775-7d92-4a8d-85ec-91f64126f105" name="Changes" comment="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3&#10;Завершенное задание №2 Амосова Оксана" />
+    <list default="true" id="dadb2775-7d92-4a8d-85ec-91f64126f105" name="Changes" comment="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3&#10;поправка 4&#10;Последняя поправка" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +56,7 @@
       <workItem from="1661191163260" duration="3665000" />
       <workItem from="1661268871222" duration="10098000" />
       <workItem from="1661280347254" duration="2884000" />
-      <workItem from="1661356076732" duration="2134000" />
+      <workItem from="1661356076732" duration="4812000" />
     </task>
     <task id="LOCAL-00001" summary="коммит 1">
       <created>1661194721542</created>
@@ -114,7 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661357601913</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3&#10;поправка 4">
+      <created>1661358261041</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661358261041</updated>
+    </task>
+    <task id="LOCAL-00010" summary="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3&#10;поправка 4&#10;Последняя поправка">
+      <created>1661362337892</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661362337892</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +154,7 @@
     <MESSAGE value="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3&#10;Завершенное задание №2" />
     <MESSAGE value="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3&#10;Завершенное задание №2 Амосова Оксана" />
     <MESSAGE value="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3&#10;поправка 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3&#10;поправка 4" />
+    <MESSAGE value="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3&#10;поправка 4&#10;Последняя поправка" />
+    <option name="LAST_COMMIT_MESSAGE" value="коммит 1&#10;коммит 2&#10;поправка 1&#10;поправка 2&#10;поправка 3&#10;поправка 4&#10;Последняя поправка" />
   </component>
 </project>
